@@ -5,7 +5,7 @@
 </p>
 
 # About Me 🌊
-Studying Information Technology Engineering at Royal University of Phnom Penh,with a love for exploring and learning beyond the classroom.
+Studying Information Technology Engineering at Royal University of Phnom Penh, with a love for exploring and learning beyond the classroom.
 
 # 💻 Tech Stack
 <p align="center">
@@ -17,6 +17,7 @@ Studying Information Technology Engineering at Royal University of Phnom Penh,wi
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white"/>
 </p>
 
 # 📊 GitHub Stats
